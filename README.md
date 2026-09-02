@@ -35,6 +35,21 @@ rover/
 4. Upload the controller sketch to the ESP32-C3.
 5. Wire the joystick and motor driver according to the pin assignments at the top of each sketch.
 
+## Roadmap
+
+### Completed
+
+- Working ESP-NOW rover and joystick controller.
+- 3D-printed linear-actuator door prototype.
+
+### Next phases
+
+1. **Rover & Controller** — Build a larger chassis for the camera and arm; add the camera and arm; extend the controller for those functions.
+2. **Power System** — Integrate 12V, 5V, and 3.3V power distribution; add a battery plan, fuse protection, a master power switch, and a wiring diagram.
+3. **Door System** — Install the actuator-driven door; add open/close limit switches, a manual override, and a safety stop.
+4. **Mission Control** — Install a display and controls; connect rover and door controls; add a simple system-status display.
+5. **Integration & Testing** — Define the rover/door command interface; document connection-loss behavior; create an end-to-end test checklist.
+
 ## Notes
 
 The controller and rover must use the same `RoverCommand` data structure. The rover is designed to stop safely whenever it has not received a command for one second.
