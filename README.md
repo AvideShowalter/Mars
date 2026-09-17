@@ -2,6 +2,10 @@
 
 ## Roadmap
 
+### Inventory
+
+[Electronics inventory with photos](docs/mars-base-inventory.md) — quantities, component details, and project notes from the working inventory sheet.
+
 ### Rover
 
 - **Completed:** Working ESP-NOW rover and joystick controller.
@@ -40,10 +44,6 @@
 - Define the rover, door, Mission Control, and power-system interfaces.
 - Document connection-loss and fail-safe behavior.
 - Create an end-to-end test checklist.
-
-## Inventory
-
-[Electronics inventory with photos](docs/mars-base-inventory.md) — quantities, component details, and project notes from the working inventory sheet.
 
 ## Mars Base Rover
 
