@@ -15,20 +15,21 @@
 - Add an LCD display.
 - Add the joystick interface.
 - Add a temperature/humidity sensor.
-- Connect Mission Control to rover and door controls.
+- **Completed:** Connect Mission Control to rover and door controls.
+- **Completed:** Add on/off toggle switches with LED status indicators.
 - Add a clear system-status display.
 
 ### Mars Base Improvements
 
 - **Completed:** 3D-printed linear-actuator door prototype.
 - Install the actuator-driven door with limit switches, manual override, and a safety stop.
-- Add overhead lighting.
+- **Completed:** Add overhead lighting.
 - Add and power a mini fridge.
 
 ### Power System
 
-- Design and document the 12V distribution system.
-- Design and document the 5V distribution system.
+- **Completed:** Design and document the 12V distribution system.
+- **Completed:** Design and document the 5V distribution system.
 - Design and document the 3.3V distribution system.
 - Add a solar panel and define its charging/power-management path.
 - Add a battery plan, fuse protection, master power switch, and wiring diagram.
@@ -90,4 +91,3 @@ The controller and rover must use the same `RoverCommand` data structure. The ro
 ## Portfolio context
 
 This is a hands-on family project exploring hardware integration, wireless control, iterative testing, and fail-safe behavior.
-
