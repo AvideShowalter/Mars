@@ -36,7 +36,8 @@
 - **Completed:** Design and document the 5V distribution system.
 - Design and document the 3.3V distribution system.
 - Add a solar panel and define its charging/power-management path.
-- Add a battery plan, fuse protection, master power switch, and wiring diagram.
+- **Completed:** Add fuse protection and a master power switch.
+- Add a battery plan and wiring diagram.
 - Test the power budget and safe behavior under load.
 
 ### Integration & Testing
