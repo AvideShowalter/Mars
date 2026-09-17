@@ -3,9 +3,6 @@
 ## Project notes
 
 - **4×AA is the preferred beginner battery source. 18650 use remains intentionally deferred while the family learns power fundamentals.**
-- The 18 AWG wire and remaining order items have arrived. Purchases of the additional power/protection and actuator equipment are confirmed; the rows below preserve the models and quantities recorded in Sheet1.
-- Quantities are recorded inventory counts, not necessarily unused stock. “Multiple” remains uncounted. No installed-versus-available split is supplied in the sheet.
-- This refresh replaces the earlier conversation-based list with the current sheet rows. Items absent from Sheet1 are not carried forward as current stock. Product descriptions are recorded references, not verified wiring specifications.
 - Click a photo to view its full-size repository copy. A dash means no photo was supplied for that row.
 
 ## Controllers
