@@ -1,7 +1,5 @@
 # Mars Base Electronics Inventory
 
-Updated **September 17, 2026** from **Sheet1** of the working Google Sheet. Photos come from Sheet1’s photo column. This is a manual snapshot; automatic syncing is not enabled.
-
 ## Project notes
 
 - **4×AA is the preferred beginner battery source. 18650 use remains intentionally deferred while the family learns power fundamentals.**
@@ -9,10 +7,6 @@ Updated **September 17, 2026** from **Sheet1** of the working Google Sheet. Phot
 - Quantities are recorded inventory counts, not necessarily unused stock. “Multiple” remains uncounted. No installed-versus-available split is supplied in the sheet.
 - This refresh replaces the earlier conversation-based list with the current sheet rows. Items absent from Sheet1 are not carried forward as current stock. Product descriptions are recorded references, not verified wiring specifications.
 - Click a photo to view its full-size repository copy. A dash means no photo was supplied for that row.
-
-## Counts and descriptions to reconcile
-
-The sheet contains both general and specific rows. These are retained separately without adding them together: TB6612 drivers (rows 22 and 114), W1209 controllers (87 and 109), 22 AWG wire (77 and 78), and general speakers, buzzers, light sensors and heatsinks alongside specific models. Row 22’s product description/link refers to TT motor kits even though its component name says TB6612. Row 36 still includes MH-FMG in the joystick details, although the earlier conversation identified that marking as a buzzer. Confirm these in Sheet1 during the next review.
 
 ## Controllers
 
